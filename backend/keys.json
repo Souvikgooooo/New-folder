@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "abal-sps-summer20",
+    "private_key_id": "30b729fb75af98ca798370a681a49664f638a00e",
+    "private_key": "",
+    "client_email": "sps-project-104@abal-sps-summer20.iam.gserviceaccount.com",
+    "client_id": "116296232495154153462",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sps-project-104%40abal-sps-summer20.iam.gserviceaccount.com"
+}
